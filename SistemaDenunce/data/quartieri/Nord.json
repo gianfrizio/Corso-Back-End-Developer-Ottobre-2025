@@ -1,0 +1,32 @@
+[
+  {
+    "id": 2,
+    "cittadino": "Elena Conti",
+    "tipo": "Truffa",
+    "descrizione": "Truffa acquisto casa",
+    "quartiere": "Nord",
+    "risolta": true,
+    "data": "2025-10-02",
+    "priorita": "Media"
+  },
+  {
+    "id": 4,
+    "cittadino": "Paolo Gallo",
+    "tipo": "Altro",
+    "descrizione": "Problema illuminazione",
+    "quartiere": "Nord",
+    "risolta": false,
+    "data": "2025-08-15",
+    "priorita": "Media"
+  },
+  {
+    "id": 5,
+    "cittadino": "Laura Berti",
+    "tipo": "Furto",
+    "descrizione": "Furto in condominio",
+    "quartiere": "Nord",
+    "risolta": false,
+    "data": "2025-10-04",
+    "priorita": "Alta"
+  }
+]

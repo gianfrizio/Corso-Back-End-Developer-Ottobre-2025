@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "cittadino": "Luca Bianchi",
+    "tipo": "Furto",
+    "descrizione": "Furto in abitazione in via Mazzini",
+    "quartiere": "Centro",
+    "risolta": true,
+    "data": "2025-06-01",
+    "priorita": "Alta"
+  },
+  {
+    "id": 6,
+    "cittadino": "Sara Fontana",
+    "tipo": "Truffa",
+    "descrizione": "Vendita online non consegnata",
+    "quartiere": "Centro",
+    "risolta": true,
+    "data": "2025-05-01",
+    "priorita": "Alta"
+  },
+  {
+    "id": 1,
+    "cittadino": "Vincenzo Sala",
+    "tipo": "Furto",
+    "descrizione": "Furto in auto",
+    "quartiere": "Est",
+    "risolta": true,
+    "data": "2025-05-20",
+    "priorita": "Alta"
+  },
+  {
+    "id": 1,
+    "cittadino": "Mario Rossi",
+    "tipo": "Furto",
+    "descrizione": "Furto auto in via Torino",
+    "quartiere": "Nord",
+    "risolta": true,
+    "data": "2025-05-10",
+    "priorita": "Alta"
+  },
+  {
+    "id": 7,
+    "cittadino": "Silvia Moretti",
+    "tipo": "Vandalismo",
+    "descrizione": "Scritta offensiva su muro",
+    "quartiere": "Nord",
+    "risolta": true,
+    "data": "2025-04-01",
+    "priorita": "Bassa"
+  },
+  {
+    "id": 7,
+    "cittadino": "Elisa Ferraro",
+    "tipo": "Vandalismo",
+    "descrizione": "Danni a panchine",
+    "quartiere": "Sud",
+    "risolta": true,
+    "data": "2025-07-01",
+    "priorita": "Bassa"
+  }
+]

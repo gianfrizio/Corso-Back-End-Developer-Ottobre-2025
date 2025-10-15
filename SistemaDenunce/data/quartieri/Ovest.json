@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "cittadino": "Gabriele Neri",
+    "tipo": "Furto",
+    "descrizione": "Furto in garage",
+    "quartiere": "Ovest",
+    "risolta": false,
+    "data": "2025-09-05",
+    "priorita": "Media"
+  },
+  {
+    "id": 2,
+    "cittadino": "Patrizia Colombo",
+    "tipo": "Truffa",
+    "descrizione": "Truffa investimento",
+    "quartiere": "Ovest",
+    "risolta": false,
+    "data": "2025-10-02",
+    "priorita": "Alta"
+  },
+  {
+    "id": 3,
+    "cittadino": "Matteo Riva",
+    "tipo": "Vandalismo",
+    "descrizione": "Vandalismo su auto",
+    "quartiere": "Ovest",
+    "risolta": false,
+    "data": "2025-08-01",
+    "priorita": "Bassa"
+  },
+  {
+    "id": 5,
+    "cittadino": "Sergio Marchetti",
+    "tipo": "Furto",
+    "descrizione": "Rimozione oggetti personali",
+    "quartiere": "Ovest",
+    "risolta": false,
+    "data": "2025-10-01",
+    "priorita": "Alta"
+  },
+  {
+    "id": 6,
+    "cittadino": "Arianna Perri",
+    "tipo": "Truffa",
+    "descrizione": "Raggiro porta a porta",
+    "quartiere": "Ovest",
+    "risolta": false,
+    "data": "2025-09-10",
+    "priorita": "Media"
+  },
+  {
+    "id": 7,
+    "cittadino": "Dario Greco",
+    "tipo": "Vandalismo",
+    "descrizione": "Danni a vetrina negozio",
+    "quartiere": "Ovest",
+    "risolta": false,
+    "data": "2025-06-01",
+    "priorita": "Bassa"
+  },
+  {
+    "id": 8,
+    "cittadino": "Valentina Serra",
+    "tipo": "Altro",
+    "descrizione": "Segnalazione cedimento marciapiede",
+    "quartiere": "Ovest",
+    "risolta": true,
+    "data": "2025-10-06",
+    "priorita": "Alta"
+  }
+]

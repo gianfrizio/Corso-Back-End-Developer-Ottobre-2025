@@ -1,0 +1,32 @@
+[8 ottobre 2025 alle ore 10:45]
+Oggi ho iniziato a imparare Node.js! È molto interessante e mi piace come posso gestire i file.
+==================================================
+
+[8 ottobre 2025 alle ore 10:45]
+Ho imparato a creare moduli personalizzati e ad esportare funzioni. Il sistema module.exports è molto potente!
+==================================================
+
+[8 ottobre 2025 alle ore 10:45]
+Sto facendo progressi! Ora so come leggere e scrivere file con il modulo fs.
+==================================================
+
+[8 ottobre 2025 alle ore 10:45]
+Questo esercizio mostra come usare le API asincrone di fs e gestire gli errori.
+==================================================
+
+[8 ottobre 2025 alle ore 10:47]
+Oggi ho iniziato a imparare Node.js! È molto interessante e mi piace come posso gestire i file.
+==================================================
+
+[8 ottobre 2025 alle ore 10:47]
+Ho imparato a creare moduli personalizzati e ad esportare funzioni. Il sistema module.exports è molto potente!
+==================================================
+
+[8 ottobre 2025 alle ore 10:47]
+Sto facendo progressi! Ora so come leggere e scrivere file con il modulo fs.
+==================================================
+
+[8 ottobre 2025 alle ore 10:47]
+Questo esercizio mostra come usare le API asincrone di fs e gestire gli errori.
+==================================================
+

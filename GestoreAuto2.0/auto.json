@@ -1,0 +1,12 @@
+{
+  "marca": "Fiat",
+  "modello": "Punto",
+  "colore": "Blu",
+  "optional": [
+    "clima",
+    "abs",
+    "bluetooth"
+  ],
+  "targa": "AB123CD",
+  "alimentazione": "Benzina"
+}

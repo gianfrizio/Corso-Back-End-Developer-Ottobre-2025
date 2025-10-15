@@ -1,0 +1,52 @@
+[
+  {
+    "id": 3,
+    "cittadino": "Anna Verdi",
+    "tipo": "Vandalismo",
+    "descrizione": "Graffiti su muro storico",
+    "quartiere": "Centro",
+    "risolta": false,
+    "data": "2025-09-20",
+    "priorita": "Bassa"
+  },
+  {
+    "id": 4,
+    "cittadino": "Giulia Neri",
+    "tipo": "Altro",
+    "descrizione": "Allarme continuo via Dante",
+    "quartiere": "Centro",
+    "risolta": false,
+    "data": "2025-07-01",
+    "priorita": "Media"
+  },
+  {
+    "id": 7,
+    "cittadino": "Claudio Rizzi",
+    "tipo": "Vandalismo",
+    "descrizione": "Danni porta condominiale",
+    "quartiere": "Centro",
+    "risolta": false,
+    "data": "2025-10-05",
+    "priorita": "Media"
+  },
+  {
+    "id": 8,
+    "cittadino": "Lorenzo Russo",
+    "tipo": "Furto",
+    "descrizione": "Furto in negozio in corso Garibaldi",
+    "quartiere": "Centro",
+    "risolta": false,
+    "data": "2025-10-03",
+    "priorita": "Alta"
+  },
+  {
+    "id": 9,
+    "cittadino": "Luca",
+    "tipo": "Furto",
+    "descrizione": "Furto di gioielli",
+    "quartiere": "Centro",
+    "risolta": true,
+    "data": "2025-10-14",
+    "priorita": "Media"
+  }
+]

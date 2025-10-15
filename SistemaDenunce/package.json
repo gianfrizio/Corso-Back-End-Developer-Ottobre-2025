@@ -1,0 +1,11 @@
+{
+  "name": "sistema-denunce",
+  "version": "1.0.0",
+  "description": "Sistema comunale delle denunce - CLI in Node.js",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Gruppo",
+  "license": "MIT"
+}

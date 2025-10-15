@@ -1,0 +1,52 @@
+[
+  {
+    "id": 2,
+    "cittadino": "Monica Gatti",
+    "tipo": "Truffa",
+    "descrizione": "Truffa affitto",
+    "quartiere": "Est",
+    "risolta": false,
+    "data": "2025-09-02",
+    "priorita": "Media"
+  },
+  {
+    "id": 3,
+    "cittadino": "Paola D'Angelo",
+    "tipo": "Vandalismo",
+    "descrizione": "Danni ai cestini",
+    "quartiere": "Est",
+    "risolta": false,
+    "data": "2025-09-10",
+    "priorita": "Bassa"
+  },
+  {
+    "id": 5,
+    "cittadino": "Nicola Bianchi",
+    "tipo": "Furto",
+    "descrizione": "Furto pc aziendale",
+    "quartiere": "Est",
+    "risolta": false,
+    "data": "2025-10-03",
+    "priorita": "Alta"
+  },
+  {
+    "id": 6,
+    "cittadino": "Chiara Sala",
+    "tipo": "Truffa",
+    "descrizione": "Truffa su servizi",
+    "quartiere": "Est",
+    "risolta": false,
+    "data": "2025-08-01",
+    "priorita": "Media"
+  },
+  {
+    "id": 8,
+    "cittadino": "Ilaria Costa",
+    "tipo": "Altro",
+    "descrizione": "Problema verde pubblico",
+    "quartiere": "Est",
+    "risolta": false,
+    "data": "2025-10-06",
+    "priorita": "Media"
+  }
+]

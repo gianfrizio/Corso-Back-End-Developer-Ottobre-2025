@@ -1,0 +1,24 @@
+[10/14/2025 10:24:15] Report generato: 40 denunce totali (23% risolte)
+[10/14/2025 10:26:31] Archiviate 9 denunce vecchie.
+[10/14/2025 10:39:16] Ricerca: "Mario" 1 risultati trovati
+[10/14/2025 10:44:08] Report generato: 40 denunce totali (23% risolte)
+[10/14/2025 10:48:19] Archiviate 5 denunce vecchie.
+[10/14/2025 11:12:22] Aggiunta denuncia: Luca Oliva 8 Cane Quartiere Sud
+[10/14/2025 11:12:50] Eliminata denuncia: ID 8 Quartiere Sud
+[10/14/2025 11:13:09] Denuncia ID 7 segnata come risolta (Quartiere Sud)
+[10/14/2025 11:14:23] Denuncia ID 2 segnata come risolta (Quartiere Nord)
+[10/14/2025 11:14:33] Archiviate 1 denunce vecchie.
+[10/14/2025 11:39:21] Report generato: 31 denunce totali (22.58% risolte)
+[10/14/2025 11:40:22] Report generato: 31 denunce totali (22.58% risolte)
+[10/14/2025 11:40:51] Report generato: 31 denunce totali (22.58% risolte)
+[10/14/2025 11:41:23] Report generato: 31 denunce totali (22.58% risolte)
+[10/14/2025 11:41:30] Report generato: 31 denunce totali (22.58% risolte)
+[10/14/2025 11:41:40] Report generato: 31 denunce totali (22.58% risolte)
+[10/14/2025 11:42:26] Denuncia ID 8 segnata come risolta (Quartiere Ovest)
+[10/14/2025 11:42:38] Report generato: 31 denunce totali (25.81% risolte)
+[10/14/2025 16:25:08] Aggiunta denuncia: Luca 9 Furto Quartiere Centro
+[10/14/2025 16:25:47] Denuncia ID 9 segnata come risolta (Quartiere Centro)
+[10/14/2025 16:26:08] Report generato: 32 denunce totali (28.13% risolte)
+[10/14/2025 16:26:44] Eliminata denuncia: ID 8 Quartiere Nord
+[10/14/2025 16:26:54] Ricerca: "Mario" 0 risultati trovati
+[10/14/2025 16:27:03] Ricerca: "Laura" 1 risultati trovati

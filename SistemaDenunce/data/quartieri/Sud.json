@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "cittadino": "Anna Morelli",
+    "tipo": "Furto",
+    "descrizione": "Furto negozio alimentari",
+    "quartiere": "Sud",
+    "risolta": false,
+    "data": "2025-09-20",
+    "priorita": "Media"
+  },
+  {
+    "id": 2,
+    "cittadino": "Luca Romano",
+    "tipo": "Truffa",
+    "descrizione": "Truffa online",
+    "quartiere": "Sud",
+    "risolta": false,
+    "data": "2025-10-07",
+    "priorita": "Bassa"
+  },
+  {
+    "id": 4,
+    "cittadino": "Riccardo Longo",
+    "tipo": "Altro",
+    "descrizione": "Sversamento rifiuti",
+    "quartiere": "Sud",
+    "risolta": false,
+    "data": "2025-08-20",
+    "priorita": "Media"
+  },
+  {
+    "id": 5,
+    "cittadino": "Gina Pizzi",
+    "tipo": "Furto",
+    "descrizione": "Scippo in strada",
+    "quartiere": "Sud",
+    "risolta": false,
+    "data": "2025-09-25",
+    "priorita": "Alta"
+  },
+  {
+    "id": 6,
+    "cittadino": "Stefano Bruno",
+    "tipo": "Truffa",
+    "descrizione": "Frode assicurativa",
+    "quartiere": "Sud",
+    "risolta": false,
+    "data": "2025-10-01",
+    "priorita": "Media"
+  }
+]
