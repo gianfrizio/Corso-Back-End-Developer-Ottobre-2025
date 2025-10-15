@@ -9,4 +9,10 @@ module.exports = {
     { id: 5, actorId: 305, filmId: 104 },
     { id: 6, actorId: 306, filmId: 104 }
   ],
+
+  // tabella di join user<->film per tracciare i film visti
+  userFilm: [
+    { id: 1, userId: 401, filmId: 101 },
+    { id: 2, userId: 402, filmId: 102 }
+  ]
 };
