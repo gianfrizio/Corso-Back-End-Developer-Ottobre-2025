@@ -1,0 +1,5 @@
+nohup: ignoring input
+Server avviato sulla porta 3001
+[10/16/2025, 4:47:33 PM] GET /
+[10/16/2025, 4:47:33 PM] GET /studenti
+[10/16/2025, 4:47:33 PM] POST /studenti
