@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "nome": "Giovanni",
+    "corso": "Informatica"
+  },
+  {
+    "id": 2,
+    "nome": "Lucia",
+    "corso": "Elettronica"
+  },
+  {
+    "id": 3,
+    "nome": "Marco",
+    "corso": "Telecomunicazioni"
+  }
+]
